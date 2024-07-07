@@ -9,84 +9,84 @@ Here are two Reports Links:
 
 ## Report is generated
 
-![1](https://drive.google.com/file/d/1ATApMwSYwdOMKatklIexUXb6t-hlBffW/view?usp=sharing)
+![1](https://github.com/ElahiMugdha/Api_Testing_Project/assets/159257285/2e683d10-7d01-47a5-9595-425a8ce33907)
 
-![2](https://drive.google.com/file/d/1Hk1-TcxViubEpXkfA9hEnDBIFqipWmCy/view?usp=sharing)
+![2](https://github.com/ElahiMugdha/Api_Testing_Project/assets/159257285/b86382ea-b95e-45de-90b2-98a8705d5504)
 
-![1](https://drive.google.com/file/d/15mCy_D1KEBQVp1MwHYvr_nuwV18mdOh0/view?usp=sharing)
+![1](https://github.com/ElahiMugdha/Api_Testing_Project/assets/159257285/c20e054e-5905-48e4-a7ff-56e3f0b89d30)
 
-![2](https://drive.google.com/file/d/1lyOrsy_6GhZuSAgmlVhhj459IsJ2Zf6O/view?usp=sharing)
+![2](https://github.com/ElahiMugdha/Api_Testing_Project/assets/159257285/b1f30856-a769-4515-93fd-fe028d2b9495)
 
 
 ## Adding Booking Details
 
 Adding Booking Details use POST method for adding booking information.
 
-![Add Booking Details](https://drive.google.com/file/d/1BIgx0AND1vn_tSNLbMj_oJrSg_zJE_rE/view?usp=sharing)
+![Add Booking Details](https://github.com/ElahiMugdha/Api_Testing_Project/assets/159257285/ea79ef0f-704b-4166-9811-1d2a935b884c)
 
 ## Fetching Booking Detail
 
 Fetching Booking Detail uses GET method for getting booking information.
 
-![Fetching Booking Detail](https://drive.google.com/file/d/1O5PMFhKcLcc9e3t684zpto5nkqnQCclE/view?usp=sharing)
+![Fetching Booking Detail](https://github.com/ElahiMugdha/Api_Testing_Project/assets/159257285/1b4d4d78-a750-4a13-92f5-40a8955726cf)
 
 ## Auth – Create Token
 
 Creating token for updating booking information using POST method.
 
-![Creating Token](https://drive.google.com/file/d/16YfwHq2OJzTQDs2dgzOdMCeom88qSoSC/view?usp=sharing)
+![Creating Token](https://github.com/ElahiMugdha/Api_Testing_Project/assets/159257285/63ba0479-d65c-4047-b89a-7df12425c570)
 
 ## Update Booking Detail
 
 Adding token value into headers section.
 
-![cookie](https://drive.google.com/file/d/1-dcRMLmWXEm7QuIE8Rho3n-0YMpmbZ7O/view?usp=sharing)
+![cookie](https://github.com/ElahiMugdha/Api_Testing_Project/assets/159257285/b31aa118-7054-47f7-a78c-471ea764c06a)
 
 Update Booking Detail uses PUT methof for updating booking information.
 
-![update booking info](https://drive.google.com/file/d/1rkL2_6nejolEKO6tnGIV1owsAcPPRUO5/view?usp=sharing)
+![update booking info](https://github.com/ElahiMugdha/Api_Testing_Project/assets/159257285/47d98864-aa78-490b-8b66-fb82be25a2f7)
 
 ## Delete Booking Detail
 
 Adding token value into headers section and deleting booking detail using DELETE method.
 
-![del token](https://drive.google.com/file/d/11jkAHNNdHGyX_ZzPLAfY7qy9dOk_kx7I/view?usp=sharing)
+![del token](https://github.com/ElahiMugdha/Api_Testing_Project/assets/159257285/88403843-41eb-4668-a195-90fe5d54298e)
 
 ## Using Environment Values
 
 Using Environment Values in all method. Here are some images below:
 
-![Environment](https://drive.google.com/file/d/1KCV9y4DixL761OsA7RSgNHJM4TS67N6N/view?usp=sharing)
+![Environment](https://github.com/ElahiMugdha/Api_Testing_Project/assets/159257285/fe507195-d2b6-4f04-b6ab-05961e4aa72a)
 
-![test](https://drive.google.com/file/d/1MnMj6shxhU6FcCnZOVSidNa-pgJfSVcJ/view?usp=sharing)
+![test](https://github.com/ElahiMugdha/Api_Testing_Project/assets/159257285/4edb4436-12ca-42a8-b310-18bd46051040)
 
-![prereq](https://drive.google.com/file/d/16m4jXtciYAg7Xo1r1zdjNKOwEo4cSM_Q/view?usp=sharing)
+![prereq](https://github.com/ElahiMugdha/Api_Testing_Project/assets/159257285/c49cd94f-fafd-4600-882f-ed59c59db652)
 
-![post](https://drive.google.com/file/d/17YiABHWSU2hc341y3vhQOdTlsPROTuqK/view?usp=sharing)
+![post](https://github.com/ElahiMugdha/Api_Testing_Project/assets/159257285/4f2bdd74-9034-47e8-bb7d-7227b94ce742)
 
-![test2](https://drive.google.com/file/d/1r-BX13RPmZKAhrm0GlbmtQ3Y95uwvRRa/view?usp=sharing)
+![test2](https://github.com/ElahiMugdha/Api_Testing_Project/assets/159257285/81ba35cc-9cd9-42bb-9360-ca3db12a8655)
 
-![update](https://drive.google.com/file/d/1AFWiRdkqjKh22ZjC7K7QQLAAzpzFz7Ci/view?usp=sharing)
+![update](https://github.com/ElahiMugdha/Api_Testing_Project/assets/159257285/90a3046a-01f4-4491-9c7b-4795edef8b29)
 
-![utest](https://drive.google.com/file/d/1s_8568zl5cUVCPhZRofjIYbpTz_zTP3X/view?usp=sharing)
+![utest](https://github.com/ElahiMugdha/Api_Testing_Project/assets/159257285/65d4429b-bbcc-4afa-a9bf-f1111b98d4f9)
 
 ## Now run the Collection with CSV DATA And Random Values:
 
-![run](https://drive.google.com/file/d/16vjILOjbSlYik5rMOtKgUWYBugij33yn/view?usp=sharing)
+![run](https://github.com/ElahiMugdha/Api_Testing_Project/assets/159257285/bd0e285c-ef78-4876-b056-b7b11932c73c)
 
-![preview](https://drive.google.com/file/d/1LUDF1y2ftdkfZWPxz1g6j6U9cISi92Bl/view?usp=sharing)
+![preview](https://github.com/ElahiMugdha/Api_Testing_Project/assets/159257285/f142cc59-bbd9-464c-a610-53a2652e6422)
 
 ## Result of Test Cases
 
-![run2](https://drive.google.com/file/d/1bLWwyKb2dCDLoQ5I7G04JHEnxdSaHemV/view?usp=sharing)
+![run2](https://github.com/ElahiMugdha/Api_Testing_Project/assets/159257285/315ec9c4-a78e-4884-a53a-45cb5cae3244)
 
 ## Now Running these code for generating reports
 
-![1](https://drive.google.com/file/d/1I_CLbBXw4pD9uZT5pmqMo7c587sT954k/view?usp=sharing)
+![1](https://github.com/ElahiMugdha/Api_Testing_Project/assets/159257285/a33aecdc-9300-4d10-99f7-cdc89779c918)
 
-![2](https://drive.google.com/file/d/18qi9SBHlu8kEmQT8pJbVAvs3DNuc0DR9/view?usp=sharing)
+![2](https://github.com/ElahiMugdha/Api_Testing_Project/assets/159257285/29ddb45c-26df-4ea4-8943-2c4ab0872e90)
 
-![3](https://drive.google.com/file/d/1IYwhglXXKoX5iT7kPAXo3z4pKj-CISqw/view?usp=sharing)
+![3](https://github.com/ElahiMugdha/Api_Testing_Project/assets/159257285/3d850e3e-f2a9-4ea2-a84b-c35ca3074cfd)
 
   
   Thanks for reading!
